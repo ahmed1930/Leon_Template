@@ -1,0 +1,6 @@
+.services .services-content .srv i:hover{
+    color: black;
+    font-size: 2em;
+    transition: 0.3s;
+    cursor:pointer;
+}
